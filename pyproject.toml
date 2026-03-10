@@ -1,0 +1,8 @@
+[project]
+name = "yt-mp3-downloader"
+version = "0.1.0"
+description = "Descarga vídeos de YouTube y los convierte a MP3"
+requires-python = ">=3.10"
+
+[tool.pip-tools]
+generate-hashes = false

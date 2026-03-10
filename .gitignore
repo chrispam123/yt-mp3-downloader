@@ -1,0 +1,21 @@
+# Entorno virtual de Python
+.venv/
+
+# Variables de entorno con valores reales
+.env
+
+# Descargas generadas (nunca subir MP3s al repo)
+downloads/
+
+# Logs generados
+logs/
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos del sistema
+.DS_Store
+*.swp
+*.swo
