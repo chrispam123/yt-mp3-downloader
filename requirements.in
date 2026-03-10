@@ -1,0 +1,5 @@
+# Descarga de vídeos y audio desde YouTube
+yt-dlp
+
+# Lectura de variables de entorno desde el archivo .env
+python-dotenv
